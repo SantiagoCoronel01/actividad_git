@@ -78,7 +78,7 @@ _git log:_
 
 _El comando git log es una herramienta básica de Git para explorar el historial del repositorio. Este comando se usa cuando necesitas buscar una versión concreta de un proyecto o saber los cambios que se introducirán mediante la fusión en una rama de función._
 
-_git diif_
+_git diff_
 
 _Git diff permite comparar cambios en archivos, ramas y commit. Esto ayuda a descubrir los errores con mayor rapidez y seguir más fácilmente el desarrollo de un proyecto._
 
