@@ -101,7 +101,7 @@ _**git merge:** Este último comando permite tomar las líneas independientes de
 
 _c. Investiga cómo subir tus cambios locales a un repositorio remoto con git push._
 
- _El git push es el último comando para editar un repositorio remoto, se usaria:_
+ _El git push es el último comando para editar un repositorio remoto, se usarìa:_
 
 _**git push**_
 
